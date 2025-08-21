@@ -1,4 +1,4 @@
-# primeiro-reposit-rio-SPTech
+# primeiro-repositorio-SPTech
 Primeiro Repositório para a Disciplina de Pesquisa e Inovação
 
 Sobre mim:
